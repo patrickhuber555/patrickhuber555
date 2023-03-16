@@ -1,5 +1,5 @@
 Hello I'm Patrick Huber! 
-- 👀 I’m interested in AI, Machine Learning, Python, Rust and ChatBots
+- 👀 I’m interested in AI, Deep Reinforcement Learning, Python, C++ and Astronomy!
 - 🌱 I’m currently learning Deep Natural Language Processing
 - 💞️ I’m looking to collaborate on a project in Deep Natural Language Processing and ChatBots
 - 📫 How to reach me: patrick.huber@technoir.ch
