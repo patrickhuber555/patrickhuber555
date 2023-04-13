@@ -1,7 +1,7 @@
 Hello I'm Patrick Huber! 
 - 👀 I’m interested in AI, Deep Reinforcement Learning, Python, C++ and Astronomy!
-- 🌱 I’m currently learning Deep Natural Language Processing
-- 💞️ I’m looking to collaborate on a project in Deep Natural Language Processing and ChatBots
+- 🌱 I’m currently studying about new arts of intelligence ;-) 
+- 💞️ I’m looking to collaborate on a project in new arts of intelligence.
 - 📫 How to reach me: patrick.huber@deep-mind.ch
 
 <!---
